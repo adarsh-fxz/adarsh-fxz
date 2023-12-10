@@ -1,5 +1,5 @@
 <h1 align="center">Adarsh Gupta 🇳🇵</h1>
-<h3 align="center">Currently studying in Amrita Vishwa Vidyapeetham, India.</h3>
+<h3 align="center">Currently studying in Herald College Kathmandu.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh8848&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh8848" /> </p>
 
